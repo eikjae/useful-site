@@ -10,7 +10,7 @@ https://htmlcheatsheet.com/css/ : css 컨닝페이퍼 사이트.
 
 https://developer.mozilla.org/ko/ :  HTML, 자바스크립트, CSS, 웹 API, MathML 등 다양한 주제의 웹 개발 자료를 담고 있는 사이트.
 
-https://disqus.com/ : 댓글에 인생을 갈아 넣은 사람들의 사이트. (자신이 만든 사이트에 댓글을 달 수 있도록 도움을 받을 수 있는 사이트.)
+https://disqus.com/ : 댓글에 인생을 갈아 넣은 사람들의 사이트. (자신의 사이트에 댓글창을 만들 수 있다.)
 
 https://flexboxfroggy.com/#ko : css flex 사용을 연습할 수 있는 게임 사이트. (개구리 옮기기)
 
