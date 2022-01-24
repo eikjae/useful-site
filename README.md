@@ -20,7 +20,7 @@ https://coolors.co/ : 아름다운 색상의 조합을 찾아주는 사이트.
 
 https://fonts.google.com/ : 웹에서 폰트 다운받는 사이트
 
-https://caniuse.com/ : 사용하고자 하는 문법이 작동하는 브라우저 버전들을 정리해준 사이트.
+https://caniuse.com/ : 사용하고자 하는 문법이 작동하는 브라우저 버전들을 정리한 사이트.
 
 https://jsbin.com/?html,output : 코드를 주소 받을 때 유용한 사이트. (자신이 작성한 코드를 입력 후, 바뀐 주소를 상대방에게 알려주면 된다.)
 
