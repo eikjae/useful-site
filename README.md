@@ -6,14 +6,6 @@ https://developer.mozilla.org/ko/ :  HTML, 자바스크립트, CSS, 웹 API, Mat
 
 https://getbootstrap.kr/ : (세계에서 가장 인기있는) HTML, CSS, JS 라이브러리
 
-https://caniuse.com/ : 사용하고자 하는 문법이 작동하는 브라우저 버전들을 정리
-
-https://unsplash.com/ : 저작권 없이 사용 가능한 이미지
-
-https://disqus.com/ : 댓글창을 생성
-
-https://jsbin.com/?html,output : 작성한 코드 송/수신
-
 ## 2. CSS
 
 https://htmlcheatsheet.com/css/ : css 컨닝페이퍼
@@ -29,9 +21,18 @@ https://flexboxfroggy.com/#ko : 개구리 옮기기 게임 (css flex 사용을 �
 https://flukeout.github.io/ : css diner 게임 (css 사용을 연습)
 
 ## 4. MongoDB
+
 https://docs.mongodb.com/manual/reference/operator/query/ : 다양한 Query Operator들 확인 가능
 
 ## 5. 기타
+
+https://disqus.com/ : 댓글창을 생성
+
+https://jsbin.com/?html,output : 작성한 코드 송/수신
+
+https://unsplash.com/ : 저작권 없이 사용 가능한 이미지
+
+https://caniuse.com/ : 사용하고자 하는 문법이 작동하는 브라우저 버전들을 정리
 
 https://teachablemachine.withgoogle.com/ : 이미지, 소리, 자세 등에 대한 머신러닝 (전문지식이나 코딩 능력 필요 없음)
 
