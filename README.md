@@ -42,4 +42,4 @@ https://tonejs.github.io/ : Web Audio framework for creating interactive music i
 
 https://temp-mail.org/ : 임시 이메일 생성 (이메일 인증 필요시 사용 가능)
 
-https://www.npmjs.com/: npm 패키지 다운로드 받을 수 있는 사이트
+https://www.npmjs.com/: node.js 혹은 javascript 관련 라이브러리가 저장되어 있는 사이트
