@@ -39,3 +39,5 @@ https://teachablemachine.withgoogle.com/ : 이미지, 소리, 자세 등에 대�
 https://github.com/egoingsb/offline/wiki/git#%EC%88%98%EB%A0%A8 : Git 사용법 복습
 
 https://tonejs.github.io/ : Web Audio framework for creating interactive music in the browser
+
+https://temp-mail.org/ : 임시 이메일 생성 (이메일 인증 필요시 사용 가능)
