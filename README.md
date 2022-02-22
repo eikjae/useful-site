@@ -6,6 +6,10 @@ https://developer.mozilla.org/ko/ :  HTML, 자바스크립트, CSS, 웹 API, Mat
 
 https://getbootstrap.kr/ : (세계에서 가장 인기있는) HTML, CSS, JS 라이브러리
 
+https://www.npmjs.com/ : node.js 혹은 javascript 관련 라이브러리가 저장되어 있는 사이트 (npm 사용시)
+
+https://yarnpkg.com/ : node.js 혹은 javascript 관련 라이브러리가 저장되어 있는 사이트 (yarn 사용시)
+
 ## 2. CSS
 
 https://htmlcheatsheet.com/css/ : css 컨닝페이퍼
@@ -41,7 +45,3 @@ https://github.com/egoingsb/offline/wiki/git#%EC%88%98%EB%A0%A8 : Git 사용법 
 https://tonejs.github.io/ : Web Audio framework for creating interactive music in the browser
 
 https://temp-mail.org/ : 임시 이메일 생성 (이메일 인증 필요시 사용 가능)
-
-https://www.npmjs.com/ : node.js 혹은 javascript 관련 라이브러리가 저장되어 있는 사이트 (npm 사용시)
-
-https://yarnpkg.com/ : node.js 혹은 javascript 관련 라이브러리가 저장되어 있는 사이트 (yarn 사용시)
