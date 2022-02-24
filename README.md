@@ -47,3 +47,11 @@ https://tonejs.github.io/ : Web Audio framework for creating interactive music i
 https://temp-mail.org/ : 임시 이메일 생성 (이메일 인증 필요시 사용 가능)
 
 https://github.com/azat-co/cheatsheets/tree/master/express4 : express cheatsheets
+
+https://jsonformatter.org/json-pretty-print : Best JSON Pretty Print Online
+
+http://developers.kakao.com : 카카오에서 제공하는 API들이 있는 사이트
+
+http://developers.naver.com : 네이버에서 제공하는 API들이 있는 사이트
+
+http://dart.fss.or.kr : 금융감독원. 실시간 공시 정보 확인 가능 (모든 증권사와 뉴스는 이곳을 참조)
