@@ -54,8 +54,3 @@ http://developers.kakao.com : 카카오에서 제공하는 API들이 있는 사�
 
 http://developers.naver.com : 네이버에서 제공하는 API들이 있는 사이트
 
-http://dart.fss.or.kr : 금융감독원. 실시간 공시 정보 확인 가능 (모든 증권사와 뉴스는 이곳을 참조)
-
-https://jwt.io/ : JSON 웹 토큰의 인코딩 및 디코딩 결과를 보여주는 사이트
-
-https://dashboard.heroku.com/apps: 프로젝트 배포를 가능하게 해주는 사이트
