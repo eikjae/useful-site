@@ -42,6 +42,8 @@ https://docs.mongodb.com/manual/reference/operator/query/ : 다양한 Query Oper
 
 ## 5. 기타
 
+https://devhints.io/js-fetch : fetch 컨닝 페이터
+
 https://disqus.com/ : 댓글창을 생성
 
 https://jsbin.com/?html,output : 작성한 코드 송/수신
