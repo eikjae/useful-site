@@ -22,6 +22,8 @@ https://www.npmjs.com/package/react-toastify : 경고창 이쁘게 만들기
 
 https://www.npmjs.com/package/react-beautiful-dnd : 드래그 앤 드랍 만들기
 
+https://storybook.js.org/docs/react/get-started/introduction : React의 Component를 최대한 작게 만들 수 있도록 도와주는 사이트
+
 ## 2. CSS
 
 https://htmlcheatsheet.com/css/ : css 컨닝페이퍼
@@ -29,6 +31,8 @@ https://htmlcheatsheet.com/css/ : css 컨닝페이퍼
 https://coolors.co/ : 아름다운 색상의 조합 검색
 
 https://fonts.google.com/ : 웹에서 폰트 다운받을 때 사용
+
+https://yeun.github.io/open-color/ : 단계별 색상을 제공하는 사이트 
 
 ## 3. 코딩 게임
 
@@ -79,3 +83,5 @@ https://jwt.io/ : JSON 웹 토큰의 인코딩 및 디코딩 결과를 보여주
 https://dashboard.heroku.com/apps: 프로젝트 배포를 가능하게 해주는 사이트
 
 https://www.speedcoder.net/lessons/ : 코딩 타자연습
+
+https://github.com/reshinto/programming_language_syntax_comparison : 프로그래밍 언어 SYNTAX 비교
