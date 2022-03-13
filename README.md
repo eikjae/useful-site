@@ -32,7 +32,13 @@ https://coolors.co/ : 아름다운 색상의 조합 검색
 
 https://fonts.google.com/ : 웹에서 폰트 다운받을 때 사용
 
-https://yeun.github.io/open-color/ : 단계별 색상을 제공하는 사이트 
+https://yeun.github.io/open-color/ : 단계별 색상을 제공하는 사이트
+
+https://unsplash.com/ : 무료 이미지
+
+https://www.flaticon.com/kr/ : 무료 아이콘
+
+https://emojipedia.org/ : 이모지 사전
 
 ## 3. 코딩 게임
 
