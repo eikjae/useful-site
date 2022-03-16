@@ -1,6 +1,6 @@
 ## 1. 통합
 
-https://www.w3schools.com/ : 온라인으로 웹 기술을 배우는 교육용 웹 사이트 (예제가 먼저 나오고, 설명이 뒤에 나온다)
+https://www.w3schools.com/ : 온라인으로 웹 기술을 배우는 교육용 웹 사이트 (예제가 먼저, 설명이 나중에 나옴)
 
 https://developer.mozilla.org/ko/ :  HTML, 자바스크립트, CSS, 웹 API, MathML 등 다양한 주제의 웹 개발 자료
 
