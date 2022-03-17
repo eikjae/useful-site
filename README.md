@@ -94,4 +94,3 @@ https://www.speedcoder.net/lessons/ : 코딩 타자연습
 
 https://www.figma.com/: 자유롭게 스크럼이 가능한 사이트. (실시간 필기 반영 등)
 
-https://www.figma.com/: 자유롭게 스크럼이 가능한 사이트. (실시간 필기 반영 등)
