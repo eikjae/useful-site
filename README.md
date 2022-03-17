@@ -24,6 +24,8 @@ https://www.npmjs.com/package/react-beautiful-dnd : 드래그 앤 드랍 만들�
 
 https://storybook.js.org/docs/react/get-started/introduction : React의 Component를 최대한 작게 만들 수 있도록 도와주는 사이트
 
+https://github.com/reshinto/programming_language_syntax_comparison : 프로그래밍 언어 SYNTAX 비교
+
 ## 2. CSS
 
 https://htmlcheatsheet.com/css/ : css 컨닝페이퍼
@@ -87,8 +89,6 @@ https://dashboard.heroku.com/apps: 프로젝트 배포를 가능하게 해주는
 https://jwt.io/ : JSON 웹 토큰의 인코딩 및 디코딩 결과를 보여주는 사이트
 
 https://dashboard.heroku.com/apps: 프로젝트 배포를 가능하게 해주는 사이트
-
-https://github.com/reshinto/programming_language_syntax_comparison : 프로그래밍 언어 SYNTAX 비교
 
 https://www.figma.com/: 자유롭게 스크럼이 가능한 사이트. (실시간 필기 반영 등)
 
