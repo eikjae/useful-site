@@ -86,6 +86,7 @@ https://jwt.io/ : JSON 웹 토큰의 인코딩 및 디코딩 결과를 보여주
 
 https://dashboard.heroku.com/apps: 프로젝트 배포를 가능하게 해주는 사이트
 
+https://jwt.io/ : JSON 웹 토큰의 인코딩 및 디코딩 결과를 보여주는 사이트
 
 https://dashboard.heroku.com/apps: 프로젝트 배포를 가능하게 해주는 사이트
 
