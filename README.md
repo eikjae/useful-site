@@ -85,15 +85,3 @@ http://dart.fss.or.kr : 금융감독원. 실시간 공시 정보 확인 가능 (
 https://jwt.io/ : JSON 웹 토큰의 인코딩 및 디코딩 결과를 보여주는 사이트
 
 https://dashboard.heroku.com/apps: 프로젝트 배포를 가능하게 해주는 사이트
-
-https://www.speedcoder.net/lessons/ : 코딩 타자연습
-
-https://www.figma.com/: 자유롭게 스크럼이 가능한 사이트. (실시간 필기 반영 등)
-
-https://jwt.io/ : JSON 웹 토큰의 인코딩 및 디코딩 결과를 보여주는 사이트
-
-https://dashboard.heroku.com/apps: 프로젝트 배포를 가능하게 해주는 사이트
-
-https://www.speedcoder.net/lessons/ : 코딩 타자연습
-
-https://www.figma.com/: 자유롭게 스크럼이 가능한 사이트. (실시간 필기 반영 등)
