@@ -96,6 +96,6 @@ https://dashboard.heroku.com/apps: 프로젝트 배포를 가능하게 해주는
 
 https://www.speedcoder.net/lessons/ : 코딩 타자연습
 
-https://www.figma.com/: 자유롭게 스크럼이 가능한 사이트. (실시간 필기 반영 등)
+https://www.figma.com/: 자유롭게 스크럼이 가능한 사이트 (실시간 필기 반영 등)
 
-https://pythontutor.com/: VISUALIZE CODE EXECUTION
+https://pythontutor.com/: 실행한 코드를 시각화해주는 사이트
