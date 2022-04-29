@@ -26,6 +26,8 @@ https://storybook.js.org/docs/react/get-started/introduction : React의 Componen
 
 https://github.com/reshinto/programming_language_syntax_comparison : 프로그래밍 언어 SYNTAX 비교
 
+http://forward.nhnent.com/hands-on-labs/toastui.chart-dashboard/01.html : TOAST UI 튜토리얼
+
 ## 2. CSS
 
 https://htmlcheatsheet.com/css/ : css 컨닝페이퍼
