@@ -104,8 +104,6 @@ https://pythontutor.com/: 실행한 코드를 시각화해주는 사이트
 
 https://momentjs.com/ : 자바스크립트 날짜 라이브러리
 
-https://www.flaticon.com/ : 아이콘 사이트
-
 ## 6. PPT 등 관련 사이트
 
 https://app.diagrams.net/ : 구조도 등을 그리는 사이트
@@ -115,3 +113,5 @@ https://unsplash.com/ : 무료 이미지 사이트
 https://recharts.org/en-US/: rechart(그래프) 공식 사이트
 
 https://www.canva.com/: PPT 제작 사이트
+
+https://www.flaticon.com/ : 아이콘 사이트
