@@ -30,7 +30,7 @@ http://forward.nhnent.com/hands-on-labs/toastui.chart-dashboard/01.html : TOAST 
 
 ## 2. CSS
 
-https://htmlcheatsheet.com/css/ : css 컨닝페이퍼
+
 
 https://coolors.co/ : 아름다운 색상의 조합 검색
 
