@@ -104,6 +104,8 @@ https://pythontutor.com/: 실행한 코드를 시각화해주는 사이트
 
 https://momentjs.com/ : 자바스크립트 날짜 라이브러리
 
+https://tableconvert.com/excel-to-json : 간편하게 데이터를 생성할 수 있는 사이트
+
 ## 6. PPT 등 관련 사이트
 
 https://app.diagrams.net/ : 구조도 등을 그리는 사이트
