@@ -116,6 +116,4 @@ https://recharts.org/en-US/: rechart(그래프) 공식 사이트
 
 https://www.canva.com/: PPT 제작 사이트
 
-https://www.flaticon.com/ : 아이콘 사이트
-
 https://www.data.go.kr/tcs/opd/ndm/view.do: 공공데이터포털
